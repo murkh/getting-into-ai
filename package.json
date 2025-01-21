@@ -6,7 +6,8 @@
   "author": "Gaurav Panchal <gkp.125@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "streamTextExample": "ts-node src/streamTextExample"
+    "streamTextExample": "ts-node src/stream-text-example",
+    "dynamic-model": "ts-node src/dynamic-model"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
