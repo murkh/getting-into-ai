@@ -5,6 +5,9 @@
   "repository": "https://github.com/murkh/getting-into-ai.git",
   "author": "Gaurav Panchal <gkp.125@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "streamTextExample": "ts-node src/streamTextExample"
+  },
   "devDependencies": {
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2",
