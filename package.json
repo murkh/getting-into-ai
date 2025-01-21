@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "streamTextExample": "ts-node src/stream-text-example",
-    "dynamic-model": "ts-node src/dynamic-model"
+    "dynamic-model": "ts-node src/dynamic-model",
+    "message-history": "ts-node src/message-history"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
@@ -18,9 +19,11 @@
   "dependencies": {
     "-": "^0.0.1",
     "@ai-sdk/google": "^1.1.0",
+    "@hono/node-server": "^1.13.7",
     "@types/node": "^22.10.7",
     "ai": "^4.1.0",
     "dotenv": "^16.4.7",
+    "hono": "^4.6.17",
     "zod": "^3.24.1"
   }
 }
