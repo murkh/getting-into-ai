@@ -12,7 +12,8 @@
     "structured-outputs": "ts-node src/structured-outputs",
     "stream-structured-outputs": "ts-node src/stream-structured-outputs",
     "generate-enums": "ts-node src/generate-enums",
-    "generate-alt-text": "ts-node src/generate-alt-text"
+    "generate-alt-text": "ts-node src/generate-alt-text",
+    "generate-embeddings": "ts-node src/generate-embeddings"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
