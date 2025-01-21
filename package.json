@@ -9,8 +9,8 @@
     "streamTextExample": "ts-node src/stream-text-example",
     "dynamic-model": "ts-node src/dynamic-model",
     "message-history": "ts-node src/message-history",
-    "structured-outputs": "ts-node src/structured-outputs"
-
+    "structured-outputs": "ts-node src/structured-outputs",
+    "stream-structured-outputs": "ts-node src/stream-structured-outputs"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
